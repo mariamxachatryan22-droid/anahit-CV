@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-03T13:59:13.406Z",
+  "usage": "Read-only local copies of images supplied by the user, chat, or selected canvas. Import these files from TSX/CSS instead of using temporary source URLs.",
+  "assets": [
+    {
+      "id": "contextImage1",
+      "source": "context_image",
+      "shapeIds": [],
+      "display": "Context image 1",
+      "path": "src/assets/magicpath/context/01-context-image-1-7ea954162bc9.jpg",
+      "importPath": "@/assets/magicpath/context/01-context-image-1-7ea954162bc9.jpg",
+      "sizeBytes": 66626
+    }
+  ],
+  "pruned_at": "2026-06-03T14:03:09.231Z"
+}
